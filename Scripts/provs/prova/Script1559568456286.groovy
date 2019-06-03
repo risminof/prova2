@@ -15,3 +15,4 @@ import internal.GlobalVariable as GlobalVariable
 
 
 WebUI.openBrowser('google.com')
+WebUI.maximizeWindow()
